@@ -69,5 +69,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:hexojs/hexo-theme-landscape.git
+  repo: git@github.com:Xuanwo/hexo-issue-test.git
   branch: gh-pages
